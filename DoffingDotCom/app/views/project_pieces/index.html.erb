@@ -1,0 +1,23 @@
+<h1>Listing project_pieces</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @project_pieces.each do |project_piece| %>
+      <tr>
+        <td><%= link_to 'Show', project_piece %></td>
+        <td><%= link_to 'Edit', edit_project_piece_path(project_piece) %></td>
+        <td><%= link_to 'Destroy', project_piece, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Project piece', new_project_piece_path %>

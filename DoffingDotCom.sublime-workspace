@@ -1,0 +1,348 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"package cont",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"package con",
+				"Package Control: Install Package"
+			],
+			[
+				"PAckage Control:	",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 194.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/M/My Documents/Development/DoffingDotCom",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/app",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/app/assets",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/app/assets/images",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/app/assets/javascripts",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/app/assets/stylesheets",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/app/controllers",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/app/helpers",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/app/views",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/app/views/layouts",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/app/views/project_pieces",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/app/views/projects",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/app/views/welcome",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/db",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/db/migrate",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/lib"
+	],
+	"file_history":
+	[
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/app/views/projects/_form.html.erb",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/app/views/layouts/application.html.erb",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/app/assets/stylesheets/application.css",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/app/assets/stylesheets/site.css",
+		"/C/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.7.0/man/bundle-config.ronn",
+		"/C/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.7.0/lib/bundler/cli/gem.rb",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/app/views/forks/_form.html.erb",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/app/views/projects/new.html.erb",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/app/views/projects/show.html.erb",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/app/models/project.rb",
+		"/M/My Documents/Development/Ruby Projects/sample_app/README.md",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/app/controllers/projects_controller.rb",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/app/views/projects/edit.html.erb",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/app/views/projects/index.html.erb",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/db/migrate/20141002014211_add_project_properties.rb",
+		"/C/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.7.0/README.md",
+		"/C/Ruby193/lib/ruby/gems/1.9.1/gems/bundler-1.7.0/bundler.gemspec",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/app/views/project_pieces/_form.html.erb",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/config/environment.rb",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/app/models/project_piece.rb",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/app/models/.keep",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/tmp/cache/assets/development/sprockets/d96fe0b34331534e48e02dbc6ac16fa0",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/config/initializers/mime_types.rb",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/app/views/project_pieces/show.html.erb",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/app/views/project_pieces/edit.html.erb",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/app/controllers/project_pieces_controller.rb",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/test/controllers/.keep",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/app/assets/javascripts/application.js",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/config/application.rb",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/app/helpers/application_helper.rb",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/test/controllers/projects_controller_test.rb",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/app/controllers/application_controller.rb",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/config.ru",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/app/controllers/welcome_controller.rb",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/db/migrate/20141006232633_create_forks.rb",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/db/migrate/20141006232131_create_forks.rb",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/app/views/tags/new.html.erb",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/app/views/project_pieces/new.html.erb",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/app/views/forks/new.html.erb",
+		"/M/My Documents/Development/DoffingDotCom/Notes.docx",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/app/helpers/projects_helper.rb",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/test/fixtures/projects.yml",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/app/views/welcome/index.html.erb",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/app/helpers/welcome_helper.rb",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/config/routes.rb",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/Rakefile",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/app/assets/javascripts/welcome.js",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/app/assets/stylesheets/welcome.css",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/Gemfile.lock",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/Gemfile",
+		"/C/Ruby193/lib/ruby/gems/1.9.1/gems/normalize-rails-3.0.1/lib/normalize-rails/engine.rb",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/app/assets/stylesheets/css_reset.css",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/config/initializers/filter_parameter_logging.rb",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/db/migrate/20141002022731_create_project_tags_join_table.rb",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/db/migrate/20141002022750_create_project_pieces_tags_join_table.rb",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/app/models/tag.rb",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/db/migrate/20141002020555_add_name_to_project_piece.rb",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/db/migrate/20141002012046_create_project_pieces.rb",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/db/migrate/20141002012524_add_project_piece_properties.rb",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/app/models/welcome.rb",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/app/assets/javascripts/project.js",
+		"/C/Users/MJ/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/MJ/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/app/assets/javascripts/welcome.js.coffee",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/config/environments/development.rb",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/config/environments/production.rb",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/app/views/welcome/alex.html.erb",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/app/views/welcome/else.html.erb",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/app/views/welcome/new.html.erb",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom/README.rdoc",
+		"/M/My Documents/Development/DoffingDotCom/default.html",
+		"/C/Users/MJ/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom.sublime-workspace",
+		"/M/My Documents/Development/DoffingDotCom/DoffingDotCom.sublime-project",
+		"/C/Users/MJ/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/MJ/Desktop/New Project.sublime-workspace",
+		"/C/Users/MJ/Desktop/this is a new file",
+		"/C/Users/MJ/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/MJ/Desktop/this is a file.js",
+		"/C/Users/MJ/Desktop/another file.txt"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "DoffingDotCom.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"_form",
+				"DoffingDotCom\\app\\views\\projects\\_form.html.erb"
+			],
+			[
+				"project/edit",
+				"DoffingDotCom\\app\\views\\projects\\edit.html.erb"
+			],
+			[
+				"model/project",
+				"DoffingDotCom\\app\\models\\project.rb"
+			],
+			[
+				"projects/edit",
+				"DoffingDotCom\\app\\views\\projects\\edit.html.erb"
+			],
+			[
+				"controller/proj",
+				"DoffingDotCom\\app\\controllers\\projects_controller.rb"
+			],
+			[
+				"appliat",
+				"DoffingDotCom\\app\\assets\\stylesheets\\application.css"
+			],
+			[
+				"applicati",
+				"DoffingDotCom\\app\\views\\layouts\\application.html.erb"
+			],
+			[
+				"controllers/project",
+				"DoffingDotCom\\app\\controllers\\projects_controller.rb"
+			],
+			[
+				"new",
+				"DoffingDotCom\\app\\views\\projects\\new.html.erb"
+			],
+			[
+				"projects.ht",
+				"DoffingDotCom\\app\\views\\project_pieces\\show.html.erb"
+			],
+			[
+				"route",
+				"DoffingDotCom\\config\\routes.rb"
+			],
+			[
+				"application",
+				"DoffingDotCom\\app\\views\\layouts\\application.html.erb"
+			],
+			[
+				"welcome",
+				"DoffingDotCom\\app\\views\\welcome\\index.html.erb"
+			],
+			[
+				"layout",
+				"DoffingDotCom\\app\\views\\layouts\\application.html.erb"
+			],
+			[
+				"this",
+				"/C/Users/MJ/Desktop/this is a file.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 475.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

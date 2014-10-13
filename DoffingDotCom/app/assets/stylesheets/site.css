@@ -1,0 +1,20 @@
+/*site wide styles */
+
+.container {
+	min-width: 700px;
+	width: 70%;
+	margin:auto ;
+}
+
+.error {
+	color: red;
+	font-weight: bold;
+}
+
+.project-piece-list{
+	
+}
+
+.project-piece-item{
+	
+}

@@ -1,0 +1,24 @@
+# Add your own tasks in files placed in lib/tasks ending in .rake,
+# for example lib/tasks/capistrano.rake, and they will automatically be available to Rake.
+
+require File.expand_path('../config/application', __FILE__)
+
+#!/usr/bin/env rake
+=begin
+
+require "bundler/gem_tasks"
+  require 'open-uri'
+
+desc "Download the latest normalize.css"
+task :update do
+  url = "https://raw.github.com/necolas/normalize.css/master/normalize.css"
+  outputfile = "vendor/assets/stylesheets/normalize-rails/normalize.css"
+
+  open(outputfile, 'wb') do |file|
+    file << open(url).read
+  end
+
+end
+=end
+
+Rails.application.load_tasks

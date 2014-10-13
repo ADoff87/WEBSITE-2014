@@ -1,0 +1,26 @@
+<p id="notice"><%= notice %></p>
+
+<%= @project.title %><br>
+<%= @project.sort_order %>
+<%= @project.description %>
+
+<br>
+
+<div class="project-piece-list">
+	<% @project.project_pieces.each do |pp| %>
+		<div class="list-project-piece">
+			<%= pp.image_url %>
+			<%= pp.name %>
+			<%= pp.featured %>
+			<%= pp.sort_order %>
+			<%= link_to 'Edit Piece', edit_project_piece_path(pp) %>
+		</div>
+	<% end %>
+</div>
+
+<% if flash[:alert] %>
+	<div class="error"><%=  flash[:alert]%> </div> 
+<% end %>
+
+<%= link_to 'Edit', edit_project_path(@project) %> |
+<%= link_to 'Back', projects_path %>
